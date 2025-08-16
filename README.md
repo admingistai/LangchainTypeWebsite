@@ -19,6 +19,8 @@
 
 Gist Answers is a modern, conversion-focused landing page for an AI-powered search widget that provides intelligent answers using website content. The project features a sleek dark theme with purple-to-pink gradients, smooth animations, and a fully responsive design.
 
+![Gist Answers Homepage](public/Screenshot%202025-08-15%20at%205.59.08%20PM.png)
+
 ### ✨ Key Features
 
 - **🎨 Modern Design**: Dark theme with glass-morphism effects and gradient animations
